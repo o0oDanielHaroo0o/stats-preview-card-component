@@ -45,6 +45,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## My process
 
+- I started by analyzing the original design and planning my approach.
+- I created the basic HTML structure and gave classes to the elements.
+
 ### Built with
 
 - Semantic HTML5 markup
