@@ -48,6 +48,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - I started by analyzing the original design and planning my approach.
 - I created the basic HTML structure and gave classes to the elements.
 - I typed general styles that will be used in both mobile and desktop layouts.
+- Mobile First
 
 ### Built with
 
